@@ -57,7 +57,7 @@ const Footer: React.FC = () => {
             <div className="flex space-x-4">
               <SocialIcon href="https://www.instagram.com/superb_precision/" icon={<InstagramIcon />} label="Instagram" />
               <SocialIcon href="https://www.facebook.com/profile.php?id=61585019997712" icon={<FacebookIcon />} label="Facebook" />
-              <SocialIcon href="https://www.linkedin.com" icon={<LinkedInIcon />} label="LinkedIn" />
+              <SocialIcon href="https://www.linkedin.com/feed/?trk=onboarding-landing" icon={<LinkedInIcon />} label="LinkedIn" />
             </div>
           </div>
           <div>
