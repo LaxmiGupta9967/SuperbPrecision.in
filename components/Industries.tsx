@@ -294,7 +294,7 @@ const Industries: React.FC = () => {
         headline="Micro-Mechanics Mastery"
         description="We specialize in micro-machining complex geometries at sub-micron accuracy. From intricate gears to miniaturized sensor bodies, our proprietary techniques deliver reliable miniature components for instrumentation, medical devices and precision tooling. We combine advanced CNC multi-axis capability with strict process controls to ensure repeatable performance and long lifecycle reliability."
         components={['Proprietary micro-machining workflows', 'Complex micro-geometries', 'In-house metrology', 'High-aspect-ratio parts']}
-        imageUrl="https://www.researchgate.net/publication/336475282/figure/fig7/AS:815301423796267@1571394415967/Constructed-ornithopter-with-micro-mechanism-3D-printed-parts-see-online-version-for.jpg"
+        imageUrl="https://i.postimg.cc/pdYL6BbL/image.png"
         bgClass="bg-steel-blue"
         textClass="text-white"
       />
